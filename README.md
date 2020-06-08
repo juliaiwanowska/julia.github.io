@@ -5,11 +5,11 @@
         <title>CSS Basics</title>
         <style>
         
-        h2 {
+  h2 {
             color: rgb(0, 232, 15);
         }  
         
-        body {
+ body {
             background-color: rgb(97, 250, 255);
         }
             
